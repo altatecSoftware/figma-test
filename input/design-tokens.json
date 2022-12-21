@@ -1,18 +1,1 @@
-{
-  "Black Colors": {
-    "BLACK_100": {
-      "value": "#000",
-      "type": "color"
-    },
-    "CONTRAST_DARK": {
-      "value": "{BLACK_100}",
-      "type": "color"
-    }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "Black Colors"
-    ]
-  }
-}
+{}
