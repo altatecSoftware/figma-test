@@ -1,1 +1,254 @@
-{"color":{"foundation":{"colors":{"primary":{"red":{"palette_red_95":{"description":"","type":"color","value":"#fef1eeff","blendMode":"normal","extensions":{"org.lukasoppermann.figmaDesignTokens":{"styleId":"S:a44e356332881bf8a7a1d1f4b1b62d59dff63932,","exportKey":"color"}}},"palette_red_90":{"description":"","type":"color","value":"#feded8ff","blendMode":"normal","extensions":{"org.lukasoppermann.figmaDesignTokens":{"styleId":"S:878188ba7f81c03b3a2f43c38d78609fe3454373,","exportKey":"color"}}}}}}}}}
+{
+  "color": {
+    "foundation": {
+      "colors": {
+        "primary": {
+          "red": {
+            "palette_red_95": {
+              "description": "",
+              "type": "color",
+              "value": "#fef1eeff",
+              "blendMode": "normal",
+              "extensions": {
+                "org.lukasoppermann.figmaDesignTokens": {
+                  "styleId": "S:a44e356332881bf8a7a1d1f4b1b62d59dff63932,",
+                  "exportKey": "color"
+                }
+              }
+            },
+            "palette_red_90": {
+              "description": "",
+              "type": "color",
+              "value": "#feded8ff",
+              "blendMode": "normal",
+              "extensions": {
+                "org.lukasoppermann.figmaDesignTokens": {
+                  "styleId": "S:878188ba7f81c03b3a2f43c38d78609fe3454373,",
+                  "exportKey": "color"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Foundation": {
+      "Gray": {
+        "10": {
+          "value": "#514f4d",
+          "type": "color"
+        },
+        "11": {
+          "value": "#3e3e3c",
+          "type": "color"
+        },
+        "12": {
+          "value": "#2b2826",
+          "type": "color"
+        },
+        "13": {
+          "value": "#080707",
+          "type": "color"
+        },
+        "01": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "02": {
+          "value": "#fafaf9",
+          "type": "color"
+        },
+        "03": {
+          "value": "#f3f2f2",
+          "type": "color"
+        },
+        "04": {
+          "value": "#ecebea",
+          "type": "color"
+        },
+        "05": {
+          "value": "#dddbda",
+          "type": "color"
+        },
+        "06": {
+          "value": "#c9c7c5",
+          "type": "color"
+        },
+        "07": {
+          "value": "#b0adab",
+          "type": "color"
+        },
+        "08": {
+          "value": "#969492",
+          "type": "color"
+        },
+        "09": {
+          "value": "#706e6b",
+          "type": "color"
+        }
+      },
+      "Blue": {
+        "Link Water": {
+          "value": "#f4f6f9",
+          "type": "color"
+        },
+        "Patten Blue": {
+          "value": "#d8edff",
+          "type": "color"
+        },
+        "Malibu": {
+          "value": "#5eb4ff",
+          "type": "color"
+        },
+        "Azure": {
+          "value": "#1589ee",
+          "type": "color"
+        },
+        "Science Blue": {
+          "value": "#0070d2",
+          "type": "color"
+        },
+        "Endeavour": {
+          "value": "#005fb2",
+          "type": "color"
+        },
+        "San Juan": {
+          "value": "#2a426c",
+          "type": "color"
+        },
+        "Midnight Blue": {
+          "value": "#00396b",
+          "type": "color"
+        },
+        "Biscay": {
+          "value": "#16325c",
+          "type": "color"
+        },
+        "Deep Cove": {
+          "value": "#061c3f",
+          "type": "color"
+        }
+      },
+      "Green": {
+        "Snowy Mint": {
+          "value": "#d9ffdf",
+          "type": "color"
+        },
+        "Emerald": {
+          "value": "#4bca81",
+          "type": "color"
+        },
+        "Salem": {
+          "value": "#04844b",
+          "type": "color"
+        },
+        "Forest Green": {
+          "value": "#027e46",
+          "type": "color"
+        },
+        "Kaitoke Green": {
+          "value": "#004a29",
+          "type": "color"
+        }
+      },
+      "Orange": {
+        "Koromiko": {
+          "value": "#ffb75d",
+          "type": "color"
+        },
+        "Sunshade": {
+          "value": "#ff9e2c",
+          "type": "color"
+        },
+        "Tangerine": {
+          "value": "#ff9a3c",
+          "type": "color"
+        },
+        "Cinnamon": {
+          "value": "#844800",
+          "type": "color"
+        }
+      },
+      "Red": {
+        "Pippin": {
+          "value": "#ffdde1",
+          "type": "color"
+        },
+        "Deep Blush": {
+          "value": "#eb7092",
+          "type": "color"
+        },
+        "Valencia": {
+          "value": "#d4504c",
+          "type": "color"
+        },
+        "Flush Mahogany": {
+          "value": "#c23934",
+          "type": "color"
+        },
+        "Tabasco": {
+          "value": "#a61a14",
+          "type": "color"
+        },
+        "Maroon": {
+          "value": "#870500",
+          "type": "color"
+        }
+      },
+      "Yellow": {
+        "Lemon Chiffon": {
+          "value": "#faffbd",
+          "type": "color"
+        },
+        "Gorse": {
+          "value": "#fff03f",
+          "type": "color"
+        }
+      }
+    },
+    "Icon": {
+      "White": {
+        "value": "{Foundation.Gray.01}",
+        "type": "color"
+      },
+      "Disabled": {
+        "value": "{Foundation.Gray.02}",
+        "type": "color"
+      },
+      "Light": {
+        "value": "{Foundation.Gray.07}",
+        "type": "color"
+      },
+      "Default": {
+        "value": "{Foundation.Gray.09}",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "{Foundation.Gray.11}",
+        "type": "color"
+      },
+      "Brand": {
+        "value": "{Foundation.Blue.Science Blue}",
+        "type": "color"
+      },
+      "Success": {
+        "value": "{Foundation.Green.Forest Green}",
+        "type": "color"
+      },
+      "Warning": {
+        "value": "{Foundation.Orange.Koromiko}",
+        "type": "color"
+      },
+      "Error": {
+        "value": "{Foundation.Red.Flush Mahogany}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "color"
+    ]
+  }
+}
