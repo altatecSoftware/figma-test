@@ -605,6 +605,28 @@
           }
         }
       }
+    },
+    "Vibrant": {
+      "Orange": {
+        "$PALETTE_ORANGE_95": {
+          "value": "#fff1ea",
+          "type": "color"
+        }
+      }
+    },
+    "Foundation": {
+      "Black Transparent": {
+        "$shadow-drag": {
+          "value": "#00000066",
+          "type": "color"
+        }
+      }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "color"
+    ]
   }
 }
