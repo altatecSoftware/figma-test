@@ -1,1 +1,25 @@
-{"effect":{"glass":{"0":null,"1":{"type":"custom-shadow","value":{"shadowType":"innerShadow","radius":20,"color":"#fff1f140","offsetX":0,"offsetY":4,"spread":5}},"description":null,"extensions":{"org.lukasoppermann.figmaDesignTokens":{"styleId":"S:8bb1bb16bd96ee087a52434bebde1f017b7a62d6,","exportKey":"effect"}}}}}
+{
+  "effect": {
+    "glass": {
+      "0": null,
+      "1": {
+        "type": "custom-shadow",
+        "value": {
+          "shadowType": "innerShadow",
+          "radius": 20,
+          "color": "#fff1f140",
+          "offsetX": 0,
+          "offsetY": 4,
+          "spread": 5
+        }
+      },
+      "description": null,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:8bb1bb16bd96ee087a52434bebde1f017b7a62d6,",
+          "exportKey": "effect"
+        }
+      }
+    }
+  }
+}
